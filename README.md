@@ -1,6 +1,6 @@
 # Base de donnes de location de voiture
 Cette base de données a été conçue pour gérer le processus de location de voitures. Elle utilise le système de gestion de base de données SQL Server et est écrite en T-SQL.
-#Installation
+# Installation
 CREATE DATABASE  location;
 GO
 USE location;
